@@ -1,2 +1,6 @@
+<img width="1365" height="754" alt="pcb1" src="https://github.com/user-attachments/assets/415e6bbf-dedb-491b-b690-7eca4f8c7c4f" />
 # DIY-Gamepad-Controller
 Trying to build a gamepad controller from scratch using kicad. I will (as heard of) need the pcb to be shipped to me so i can code some arduino probably but that will be on my cost and i'll finish everything and keep it open sourced (although its alot to cover for beginners).
+
+its done as for now.
+the basic idea of this project is that the main pcb that i made myself is a square but u might ask everyone can do that, well mine has a little twist after you get the pcb shipped all you need is a company that will 3d print you your design and few buttons. the creativity here is that YOU make your own controller, regardless of the shape the main board and the arduino doesnt take much space. other than that you can customize it into literally anything. the buttons are 1 back button, 1 start button, 1 led to show if the controller is working, 2 joysticks , dpad with 3 buttons and left and right trigger and shoulder buttons. u can buy these fairly cheap these days and 3d printing ur model will take around 8$ depending on what you make. i dont have these facilities so ill use 3rd party websites to get it printed to me and hopefully after my exams ill put it together and update the github.
